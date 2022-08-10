@@ -21,19 +21,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
-global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
+global.owner = ['+94750161089']
+global.premium = ['+94705000112']
+global.ownernomer = '+94750161089'
+global.ownername = '𝚂𝙷𝙴𝙽𝚄'
+global.botname = '𝚂𝙷𝙴𝙽𝚄_𝙱𝙾𝚃'
+global.footer = 'ѕнєηυ вσт'
+global.cap = '*Genarated By 𝙎𝙃𝙀𝙉𝙐 𝙈𝘿*'
+global.ig = 'https://www.youtube.com/channel/UCbhQRTS80KKrvin1QgXh45Q'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
-global.sc = 'https://github.com/vihangabot'
-global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
-global.packname = 'Vihanga Md Sticker Bot'
-global.author = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
+global.sc = 'https://www.youtube.com/channel/UCbhQRTS80KKrvin1QgXh45Q'
+global.myweb = 'https://www.youtube.com/channel/UCbhQRTS80KKrvin1QgXh45Q'
+global.packname = '𝖘𝖍𝖊𝖓𝖚 𝖇𝖔𝖙'
+global.author = '𝖘𝖍𝖊𝖓𝖚'
 global.autobio = 'true'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
